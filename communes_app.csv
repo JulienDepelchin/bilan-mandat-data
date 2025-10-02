@@ -1,0 +1,1535 @@
+code_insee,nom_commune,departement,departement_code,search_key
+59001,Abancourt,Nord,59,abancourt
+59002,Abscon,Nord,59,abscon
+59003,Aibes,Nord,59,aibes
+59004,Aix-en-Pévèle,Nord,59,aix en pevele
+59005,Allennes-les-Marais,Nord,59,allennes les marais
+59006,L'Orée de Mormal,Nord,59,l oree de mormal
+59007,Anhiers,Nord,59,anhiers
+59008,Aniche,Nord,59,aniche
+59009,Villeneuve-d'Ascq,Nord,59,villeneuve d ascq
+59010,Anneux,Nord,59,anneux
+59011,Annœullin,Nord,59,annullin
+59012,Anor,Nord,59,anor
+59013,Anstaing,Nord,59,anstaing
+59014,Anzin,Nord,59,anzin
+59015,Arleux,Nord,59,arleux
+59016,Armbouts-Cappel,Nord,59,armbouts cappel
+59017,Armentières,Nord,59,armentieres
+59018,Arnèke,Nord,59,arneke
+59019,Artres,Nord,59,artres
+59021,Assevent,Nord,59,assevent
+59022,Attiches,Nord,59,attiches
+59023,Aubencheul-au-Bac,Nord,59,aubencheul au bac
+59024,Auberchicourt,Nord,59,auberchicourt
+59025,Aubers,Nord,59,aubers
+59026,Aubigny-au-Bac,Nord,59,aubigny au bac
+59027,Aubry-du-Hainaut,Nord,59,aubry du hainaut
+59028,Auby,Nord,59,auby
+59029,Auchy-lez-Orchies,Nord,59,auchy lez orchies
+59031,Audignies,Nord,59,audignies
+59032,Aulnoy-lez-Valenciennes,Nord,59,aulnoy lez valenciennes
+59033,Aulnoye-Aymeries,Nord,59,aulnoye aymeries
+59034,Avelin,Nord,59,avelin
+59035,Avesnelles,Nord,59,avesnelles
+59036,Avesnes-sur-Helpe,Nord,59,avesnes sur helpe
+59037,Avesnes-les-Aubert,Nord,59,avesnes les aubert
+59038,Avesnes-le-Sec,Nord,59,avesnes le sec
+59039,Awoingt,Nord,59,awoingt
+59041,Bachant,Nord,59,bachant
+59042,Bachy,Nord,59,bachy
+59043,Bailleul,Nord,59,bailleul
+59044,Baisieux,Nord,59,baisieux
+59045,Baives,Nord,59,baives
+59046,Bambecque,Nord,59,bambecque
+59047,Banteux,Nord,59,banteux
+59048,Bantigny,Nord,59,bantigny
+59049,Bantouzelle,Nord,59,bantouzelle
+59050,Bas-Lieu,Nord,59,bas lieu
+59051,La Bassée,Nord,59,la bassee
+59052,Bauvin,Nord,59,bauvin
+59053,Bavay,Nord,59,bavay
+59054,Bavinchove,Nord,59,bavinchove
+59055,Bazuel,Nord,59,bazuel
+59056,Beaucamps-Ligny,Nord,59,beaucamps ligny
+59057,Beaudignies,Nord,59,beaudignies
+59058,Beaufort,Nord,59,beaufort
+59059,Beaumont-en-Cambrésis,Nord,59,beaumont en cambresis
+59060,Beaurain,Nord,59,beaurain
+59061,Beaurepaire-sur-Sambre,Nord,59,beaurepaire sur sambre
+59062,Beaurieux,Nord,59,beaurieux
+59063,Beauvois-en-Cambrésis,Nord,59,beauvois en cambresis
+59064,Bellaing,Nord,59,bellaing
+59065,Bellignies,Nord,59,bellignies
+59066,Bérelles,Nord,59,berelles
+59067,Bergues,Nord,59,bergues
+59068,Berlaimont,Nord,59,berlaimont
+59069,Bermerain,Nord,59,bermerain
+59071,Bersée,Nord,59,bersee
+59072,Bersillies,Nord,59,bersillies
+59073,Berthen,Nord,59,berthen
+59074,Bertry,Nord,59,bertry
+59075,Béthencourt,Nord,59,bethencourt
+59076,Bettignies,Nord,59,bettignies
+59077,Bettrechies,Nord,59,bettrechies
+59078,Beugnies,Nord,59,beugnies
+59079,Beuvrages,Nord,59,beuvrages
+59080,Beuvry-la-Forêt,Nord,59,beuvry la foret
+59081,Bévillers,Nord,59,bevillers
+59082,Bierne,Nord,59,bierne
+59083,Bissezeele,Nord,59,bissezeele
+59084,Blaringhem,Nord,59,blaringhem
+59085,Blécourt,Nord,59,blecourt
+59086,Boeschepe,Nord,59,boeschepe
+59087,Boëseghem,Nord,59,boeseghem
+59088,Bois-Grenier,Nord,59,bois grenier
+59089,Bollezeele,Nord,59,bollezeele
+59090,Bondues,Nord,59,bondues
+59091,Borre,Nord,59,borre
+59092,Bouchain,Nord,59,bouchain
+59093,Boulogne-sur-Helpe,Nord,59,boulogne sur helpe
+59094,Bourbourg,Nord,59,bourbourg
+59096,Bourghelles,Nord,59,bourghelles
+59097,Boursies,Nord,59,boursies
+59098,Bousbecque,Nord,59,bousbecque
+59099,Bousies,Nord,59,bousies
+59100,Bousignies,Nord,59,bousignies
+59101,Bousignies-sur-Roc,Nord,59,bousignies sur roc
+59102,Boussières-en-Cambrésis,Nord,59,boussieres en cambresis
+59103,Boussières-sur-Sambre,Nord,59,boussieres sur sambre
+59104,Boussois,Nord,59,boussois
+59105,Bouvignies,Nord,59,bouvignies
+59106,Bouvines,Nord,59,bouvines
+59107,Bray-Dunes,Nord,59,bray dunes
+59108,Briastre,Nord,59,briastre
+59109,Brillon,Nord,59,brillon
+59110,Brouckerque,Nord,59,brouckerque
+59111,Broxeele,Nord,59,broxeele
+59112,Bruay-sur-l'Escaut,Nord,59,bruay sur l escaut
+59113,Bruille-lez-Marchiennes,Nord,59,bruille lez marchiennes
+59114,Bruille-Saint-Amand,Nord,59,bruille saint amand
+59115,Brunémont,Nord,59,brunemont
+59116,Bry,Nord,59,bry
+59117,Bugnicourt,Nord,59,bugnicourt
+59118,Busigny,Nord,59,busigny
+59119,Buysscheure,Nord,59,buysscheure
+59120,Caëstre,Nord,59,caestre
+59121,Cagnoncles,Nord,59,cagnoncles
+59122,Cambrai,Nord,59,cambrai
+59123,Camphin-en-Carembault,Nord,59,camphin en carembault
+59124,Camphin-en-Pévèle,Nord,59,camphin en pevele
+59125,Cantaing-sur-Escaut,Nord,59,cantaing sur escaut
+59126,Cantin,Nord,59,cantin
+59127,Capelle,Nord,59,capelle
+59128,Capinghem,Nord,59,capinghem
+59129,Cappelle-en-Pévèle,Nord,59,cappelle en pevele
+59130,Cappelle-Brouck,Nord,59,cappelle brouck
+59131,Cappelle-la-Grande,Nord,59,cappelle la grande
+59132,Carnières,Nord,59,carnieres
+59133,Carnin,Nord,59,carnin
+59134,Cartignies,Nord,59,cartignies
+59135,Cassel,Nord,59,cassel
+59136,Le Cateau-Cambrésis,Nord,59,le cateau cambresis
+59137,Catillon-sur-Sambre,Nord,59,catillon sur sambre
+59138,Cattenières,Nord,59,cattenieres
+59139,Caudry,Nord,59,caudry
+59140,Caullery,Nord,59,caullery
+59141,Cauroir,Nord,59,cauroir
+59142,Cerfontaine,Nord,59,cerfontaine
+59143,La Chapelle-d'Armentières,Nord,59,la chapelle d armentieres
+59144,Château-l'Abbaye,Nord,59,chateau l abbaye
+59145,Chemy,Nord,59,chemy
+59146,Chéreng,Nord,59,chereng
+59147,Choisies,Nord,59,choisies
+59148,Clairfayts,Nord,59,clairfayts
+59149,Clary,Nord,59,clary
+59150,Cobrieux,Nord,59,cobrieux
+59151,Colleret,Nord,59,colleret
+59152,Comines,Nord,59,comines
+59153,Condé-sur-l'Escaut,Nord,59,conde sur l escaut
+59155,Coudekerque-Branche,Nord,59,coudekerque branche
+59156,Courchelettes,Nord,59,courchelettes
+59157,Cousolre,Nord,59,cousolre
+59158,Coutiches,Nord,59,coutiches
+59159,Craywick,Nord,59,craywick
+59160,Crespin,Nord,59,crespin
+59161,Crèvecœur-sur-l'Escaut,Nord,59,crevecur sur l escaut
+59162,Crochte,Nord,59,crochte
+59163,Croix,Nord,59,croix
+59164,Croix-Caluyau,Nord,59,croix caluyau
+59165,Cuincy,Nord,59,cuincy
+59166,Curgies,Nord,59,curgies
+59167,Cuvillers,Nord,59,cuvillers
+59168,Cysoing,Nord,59,cysoing
+59169,Damousies,Nord,59,damousies
+59170,Dechy,Nord,59,dechy
+59171,Dehéries,Nord,59,deheries
+59172,Denain,Nord,59,denain
+59173,Deûlémont,Nord,59,deulemont
+59174,Dimechaux,Nord,59,dimechaux
+59175,Dimont,Nord,59,dimont
+59176,Doignies,Nord,59,doignies
+59177,Dompierre-sur-Helpe,Nord,59,dompierre sur helpe
+59178,Douai,Nord,59,douai
+59179,Douchy-les-Mines,Nord,59,douchy les mines
+59180,Le Doulieu,Nord,59,le doulieu
+59181,Dourlers,Nord,59,dourlers
+59182,Drincham,Nord,59,drincham
+59183,Dunkerque,Nord,59,dunkerque
+59184,Ebblinghem,Nord,59,ebblinghem
+59185,Écaillon,Nord,59,ecaillon
+59186,Eccles,Nord,59,eccles
+59187,Éclaibes,Nord,59,eclaibes
+59188,Écuélin,Nord,59,ecuelin
+59189,Eecke,Nord,59,eecke
+59190,Élesmes,Nord,59,elesmes
+59191,Élincourt,Nord,59,elincourt
+59192,Émerchicourt,Nord,59,emerchicourt
+59193,Emmerin,Nord,59,emmerin
+59194,Englefontaine,Nord,59,englefontaine
+59195,Englos,Nord,59,englos
+59196,Ennetières-en-Weppes,Nord,59,ennetieres en weppes
+59197,Ennevelin,Nord,59,ennevelin
+59198,Eppe-Sauvage,Nord,59,eppe sauvage
+59199,Erchin,Nord,59,erchin
+59200,Eringhem,Nord,59,eringhem
+59201,Erquinghem-le-Sec,Nord,59,erquinghem le sec
+59202,Erquinghem-Lys,Nord,59,erquinghem lys
+59203,Erre,Nord,59,erre
+59204,Escarmain,Nord,59,escarmain
+59205,Escaudain,Nord,59,escaudain
+59206,Escaudœuvres,Nord,59,escauduvres
+59207,Escautpont,Nord,59,escautpont
+59208,Escobecques,Nord,59,escobecques
+59209,Esnes,Nord,59,esnes
+59210,Esquelbecq,Nord,59,esquelbecq
+59211,Esquerchin,Nord,59,esquerchin
+59212,Estaires,Nord,59,estaires
+59213,Estourmel,Nord,59,estourmel
+59214,Estrées,Nord,59,estrees
+59215,Estreux,Nord,59,estreux
+59216,Eswars,Nord,59,eswars
+59217,Eth,Nord,59,eth
+59218,Étrœungt,Nord,59,etrungt
+59219,Estrun,Nord,59,estrun
+59220,Faches-Thumesnil,Nord,59,faches thumesnil
+59221,Famars,Nord,59,famars
+59222,Faumont,Nord,59,faumont
+59223,Le Favril,Nord,59,le favril
+59224,Féchain,Nord,59,fechain
+59225,Feignies,Nord,59,feignies
+59226,Felleries,Nord,59,felleries
+59227,Fenain,Nord,59,fenain
+59228,Férin,Nord,59,ferin
+59229,Féron,Nord,59,feron
+59230,Ferrière-la-Grande,Nord,59,ferriere la grande
+59231,Ferrière-la-Petite,Nord,59,ferriere la petite
+59232,La Flamengrie,Nord,59,la flamengrie
+59233,Flaumont-Waudrechies,Nord,59,flaumont waudrechies
+59234,Flers-en-Escrebieux,Nord,59,flers en escrebieux
+59236,Flesquières,Nord,59,flesquieres
+59237,Flêtre,Nord,59,fletre
+59238,Flines-lès-Mortagne,Nord,59,flines les mortagne
+59239,Flines-lez-Raches,Nord,59,flines lez raches
+59240,Floursies,Nord,59,floursies
+59241,Floyon,Nord,59,floyon
+59242,Fontaine-au-Bois,Nord,59,fontaine au bois
+59243,Fontaine-au-Pire,Nord,59,fontaine au pire
+59244,Fontaine-Notre-Dame,Nord,59,fontaine notre dame
+59246,Forest-en-Cambrésis,Nord,59,forest en cambresis
+59247,Forest-sur-Marque,Nord,59,forest sur marque
+59249,Fourmies,Nord,59,fourmies
+59250,Fournes-en-Weppes,Nord,59,fournes en weppes
+59251,Frasnoy,Nord,59,frasnoy
+59252,Frelinghien,Nord,59,frelinghien
+59253,Fresnes-sur-Escaut,Nord,59,fresnes sur escaut
+59254,Fressain,Nord,59,fressain
+59255,Fressies,Nord,59,fressies
+59256,Fretin,Nord,59,fretin
+59257,Fromelles,Nord,59,fromelles
+59258,Genech,Nord,59,genech
+59259,Ghissignies,Nord,59,ghissignies
+59260,Ghyvelde,Nord,59,ghyvelde
+59261,Glageon,Nord,59,glageon
+59262,Godewaersvelde,Nord,59,godewaersvelde
+59263,Gœulzin,Nord,59,gulzin
+59264,Gognies-Chaussée,Nord,59,gognies chaussee
+59265,Gommegnies,Nord,59,gommegnies
+59266,Gondecourt,Nord,59,gondecourt
+59267,Gonnelieu,Nord,59,gonnelieu
+59268,La Gorgue,Nord,59,la gorgue
+59269,Gouzeaucourt,Nord,59,gouzeaucourt
+59270,Grand-Fayt,Nord,59,grand fayt
+59271,Grande-Synthe,Nord,59,grande synthe
+59272,Grand-Fort-Philippe,Nord,59,grand fort philippe
+59273,Gravelines,Nord,59,gravelines
+59274,La Groise,Nord,59,la groise
+59275,Gruson,Nord,59,gruson
+59276,Guesnain,Nord,59,guesnain
+59277,Gussignies,Nord,59,gussignies
+59278,Hallennes-lez-Haubourdin,Nord,59,hallennes lez haubourdin
+59279,Halluin,Nord,59,halluin
+59280,Hamel,Nord,59,hamel
+59281,Hantay,Nord,59,hantay
+59282,Hardifort,Nord,59,hardifort
+59283,Hargnies,Nord,59,hargnies
+59284,Hasnon,Nord,59,hasnon
+59285,Haspres,Nord,59,haspres
+59286,Haubourdin,Nord,59,haubourdin
+59287,Haucourt-en-Cambrésis,Nord,59,haucourt en cambresis
+59288,Haulchin,Nord,59,haulchin
+59289,Haussy,Nord,59,haussy
+59290,Haut-Lieu,Nord,59,haut lieu
+59291,Hautmont,Nord,59,hautmont
+59292,Haveluy,Nord,59,haveluy
+59293,Haverskerque,Nord,59,haverskerque
+59294,Haynecourt,Nord,59,haynecourt
+59295,Hazebrouck,Nord,59,hazebrouck
+59296,Hecq,Nord,59,hecq
+59297,Hélesmes,Nord,59,helesmes
+59299,Hem,Nord,59,hem
+59300,Hem-Lenglet,Nord,59,hem lenglet
+59301,Hergnies,Nord,59,hergnies
+59302,Hérin,Nord,59,herin
+59303,Herlies,Nord,59,herlies
+59304,Herrin,Nord,59,herrin
+59305,Herzeele,Nord,59,herzeele
+59306,Hestrud,Nord,59,hestrud
+59307,Holque,Nord,59,holque
+59308,Hondeghem,Nord,59,hondeghem
+59309,Hondschoote,Nord,59,hondschoote
+59310,Hon-Hergies,Nord,59,hon hergies
+59311,Honnechy,Nord,59,honnechy
+59312,Honnecourt-sur-Escaut,Nord,59,honnecourt sur escaut
+59313,Hordain,Nord,59,hordain
+59314,Hornaing,Nord,59,hornaing
+59315,Houdain-lez-Bavay,Nord,59,houdain lez bavay
+59316,Houplin-Ancoisne,Nord,59,houplin ancoisne
+59317,Houplines,Nord,59,houplines
+59318,Houtkerque,Nord,59,houtkerque
+59319,Hoymille,Nord,59,hoymille
+59320,Illies,Nord,59,illies
+59321,Inchy,Nord,59,inchy
+59322,Iwuy,Nord,59,iwuy
+59323,Jenlain,Nord,59,jenlain
+59324,Jeumont,Nord,59,jeumont
+59325,Jolimetz,Nord,59,jolimetz
+59326,Killem,Nord,59,killem
+59327,Lallaing,Nord,59,lallaing
+59328,Lambersart,Nord,59,lambersart
+59329,Lambres-lez-Douai,Nord,59,lambres lez douai
+59330,Landas,Nord,59,landas
+59331,Landrecies,Nord,59,landrecies
+59332,Lannoy,Nord,59,lannoy
+59333,Larouillies,Nord,59,larouillies
+59334,Lauwin-Planque,Nord,59,lauwin planque
+59335,Lecelles,Nord,59,lecelles
+59336,Lécluse,Nord,59,lecluse
+59337,Lederzeele,Nord,59,lederzeele
+59338,Ledringhem,Nord,59,ledringhem
+59339,Leers,Nord,59,leers
+59340,Leffrinckoucke,Nord,59,leffrinckoucke
+59341,Lesdain,Nord,59,lesdain
+59342,Lez-Fontaine,Nord,59,lez fontaine
+59343,Lesquin,Nord,59,lesquin
+59344,Leval,Nord,59,leval
+59345,Lewarde,Nord,59,lewarde
+59346,Lezennes,Nord,59,lezennes
+59347,Liessies,Nord,59,liessies
+59348,Lieu-Saint-Amand,Nord,59,lieu saint amand
+59349,Ligny-en-Cambrésis,Nord,59,ligny en cambresis
+59350,Lille,Nord,59,lille
+59351,Limont-Fontaine,Nord,59,limont fontaine
+59352,Linselles,Nord,59,linselles
+59353,Locquignol,Nord,59,locquignol
+59354,Loffre,Nord,59,loffre
+59356,Lompret,Nord,59,lompret
+59357,La Longueville,Nord,59,la longueville
+59358,Looberghe,Nord,59,looberghe
+59359,Loon-Plage,Nord,59,loon plage
+59360,Loos,Nord,59,loos
+59361,Lourches,Nord,59,lourches
+59363,Louvignies-Quesnoy,Nord,59,louvignies quesnoy
+59364,Louvil,Nord,59,louvil
+59365,Louvroil,Nord,59,louvroil
+59366,Lynde,Nord,59,lynde
+59367,Lys-lez-Lannoy,Nord,59,lys lez lannoy
+59368,La Madeleine,Nord,59,la madeleine
+59369,Maing,Nord,59,maing
+59370,Mairieux,Nord,59,mairieux
+59371,Le Maisnil,Nord,59,le maisnil
+59372,Malincourt,Nord,59,malincourt
+59374,Marbaix,Nord,59,marbaix
+59375,Marchiennes,Nord,59,marchiennes
+59377,Marcoing,Nord,59,marcoing
+59378,Marcq-en-Barœul,Nord,59,marcq en barul
+59379,Marcq-en-Ostrevent,Nord,59,marcq en ostrevent
+59381,Maresches,Nord,59,maresches
+59382,Maretz,Nord,59,maretz
+59383,Marly,Nord,59,marly
+59384,Maroilles,Nord,59,maroilles
+59385,Marpent,Nord,59,marpent
+59386,Marquette-lez-Lille,Nord,59,marquette lez lille
+59387,Marquette-en-Ostrevant,Nord,59,marquette en ostrevant
+59388,Marquillies,Nord,59,marquillies
+59389,Masnières,Nord,59,masnieres
+59390,Masny,Nord,59,masny
+59391,Mastaing,Nord,59,mastaing
+59392,Maubeuge,Nord,59,maubeuge
+59393,Maulde,Nord,59,maulde
+59394,Maurois,Nord,59,maurois
+59395,Mazinghien,Nord,59,mazinghien
+59396,Mecquignies,Nord,59,mecquignies
+59397,Merckeghem,Nord,59,merckeghem
+59398,Mérignies,Nord,59,merignies
+59399,Merris,Nord,59,merris
+59400,Merville,Nord,59,merville
+59401,Méteren,Nord,59,meteren
+59402,Millam,Nord,59,millam
+59403,Millonfosse,Nord,59,millonfosse
+59405,Mœuvres,Nord,59,muvres
+59406,Monceau-Saint-Waast,Nord,59,monceau saint waast
+59407,Monchaux-sur-Écaillon,Nord,59,monchaux sur ecaillon
+59408,Moncheaux,Nord,59,moncheaux
+59409,Monchecourt,Nord,59,monchecourt
+59410,Mons-en-Barœul,Nord,59,mons en barul
+59411,Mons-en-Pévèle,Nord,59,mons en pevele
+59412,Montay,Nord,59,montay
+59413,Montigny-en-Cambrésis,Nord,59,montigny en cambresis
+59414,Montigny-en-Ostrevent,Nord,59,montigny en ostrevent
+59415,Montrécourt,Nord,59,montrecourt
+59416,Morbecque,Nord,59,morbecque
+59418,Mortagne-du-Nord,Nord,59,mortagne du nord
+59419,Mouchin,Nord,59,mouchin
+59420,Moustier-en-Fagne,Nord,59,moustier en fagne
+59421,Mouvaux,Nord,59,mouvaux
+59422,Naves,Nord,59,naves
+59423,Neuf-Berquin,Nord,59,neuf berquin
+59424,Neuf-Mesnil,Nord,59,neuf mesnil
+59425,Neuville-en-Avesnois,Nord,59,neuville en avesnois
+59426,Neuville-en-Ferrain,Nord,59,neuville en ferrain
+59427,La Neuville,Nord,59,la neuville
+59428,Neuville-Saint-Rémy,Nord,59,neuville saint remy
+59429,Neuville-sur-Escaut,Nord,59,neuville sur escaut
+59430,Neuvilly,Nord,59,neuvilly
+59431,Nieppe,Nord,59,nieppe
+59432,Niergnies,Nord,59,niergnies
+59433,Nieurlet,Nord,59,nieurlet
+59434,Nivelle,Nord,59,nivelle
+59435,Nomain,Nord,59,nomain
+59436,Noordpeene,Nord,59,noordpeene
+59437,Noyelles-lès-Seclin,Nord,59,noyelles les seclin
+59438,Noyelles-sur-Escaut,Nord,59,noyelles sur escaut
+59439,Noyelles-sur-Sambre,Nord,59,noyelles sur sambre
+59440,Noyelles-sur-Selle,Nord,59,noyelles sur selle
+59441,Obies,Nord,59,obies
+59442,Obrechies,Nord,59,obrechies
+59443,Ochtezeele,Nord,59,ochtezeele
+59444,Odomez,Nord,59,odomez
+59445,Ohain,Nord,59,ohain
+59446,Oisy,Nord,59,oisy
+59447,Onnaing,Nord,59,onnaing
+59448,Oost-Cappel,Nord,59,oost cappel
+59449,Orchies,Nord,59,orchies
+59450,Ors,Nord,59,ors
+59451,Orsinval,Nord,59,orsinval
+59452,Ostricourt,Nord,59,ostricourt
+59453,Oudezeele,Nord,59,oudezeele
+59454,Oxelaëre,Nord,59,oxelaere
+59455,Paillencourt,Nord,59,paillencourt
+59456,Pecquencourt,Nord,59,pecquencourt
+59457,Pérenchies,Nord,59,perenchies
+59458,Péronne-en-Mélantois,Nord,59,peronne en melantois
+59459,Petite-Forêt,Nord,59,petite foret
+59461,Petit-Fayt,Nord,59,petit fayt
+59462,Phalempin,Nord,59,phalempin
+59463,Pitgam,Nord,59,pitgam
+59464,Poix-du-Nord,Nord,59,poix du nord
+59465,Pommereuil,Nord,59,pommereuil
+59466,Pont-à-Marcq,Nord,59,pont a marcq
+59467,Pont-sur-Sambre,Nord,59,pont sur sambre
+59468,Potelle,Nord,59,potelle
+59469,Pradelles,Nord,59,pradelles
+59470,Prémesques,Nord,59,premesques
+59471,Préseau,Nord,59,preseau
+59472,Preux-au-Bois,Nord,59,preux au bois
+59473,Preux-au-Sart,Nord,59,preux au sart
+59474,Prisches,Nord,59,prisches
+59475,Prouvy,Nord,59,prouvy
+59476,Proville,Nord,59,proville
+59477,Provin,Nord,59,provin
+59478,Quaëdypre,Nord,59,quaedypre
+59479,Quarouble,Nord,59,quarouble
+59480,Quérénaing,Nord,59,querenaing
+59481,Le Quesnoy,Nord,59,le quesnoy
+59482,Quesnoy-sur-Deûle,Nord,59,quesnoy sur deule
+59483,Quiévelon,Nord,59,quievelon
+59484,Quiévrechain,Nord,59,quievrechain
+59485,Quiévy,Nord,59,quievy
+59486,Râches,Nord,59,raches
+59487,Radinghem-en-Weppes,Nord,59,radinghem en weppes
+59488,Raillencourt-Sainte-Olle,Nord,59,raillencourt sainte olle
+59489,Raimbeaucourt,Nord,59,raimbeaucourt
+59490,Rainsars,Nord,59,rainsars
+59491,Raismes,Nord,59,raismes
+59492,Ramillies,Nord,59,ramillies
+59493,Ramousies,Nord,59,ramousies
+59494,Raucourt-au-Bois,Nord,59,raucourt au bois
+59495,Recquignies,Nord,59,recquignies
+59496,Rejet-de-Beaulieu,Nord,59,rejet de beaulieu
+59497,Renescure,Nord,59,renescure
+59498,Reumont,Nord,59,reumont
+59499,Rexpoëde,Nord,59,rexpoede
+59500,Ribécourt-la-Tour,Nord,59,ribecourt la tour
+59501,Rieulay,Nord,59,rieulay
+59502,Rieux-en-Cambrésis,Nord,59,rieux en cambresis
+59503,Robersart,Nord,59,robersart
+59504,Rœulx,Nord,59,rulx
+59505,Rombies-et-Marchipont,Nord,59,rombies et marchipont
+59506,Romeries,Nord,59,romeries
+59507,Ronchin,Nord,59,ronchin
+59508,Roncq,Nord,59,roncq
+59509,Roost-Warendin,Nord,59,roost warendin
+59511,Rosult,Nord,59,rosult
+59512,Roubaix,Nord,59,roubaix
+59513,Roucourt,Nord,59,roucourt
+59514,Rousies,Nord,59,rousies
+59515,Rouvignies,Nord,59,rouvignies
+59516,Rubrouck,Nord,59,rubrouck
+59517,Les Rues-des-Vignes,Nord,59,les rues des vignes
+59518,Ruesnes,Nord,59,ruesnes
+59519,Rumegies,Nord,59,rumegies
+59520,Rumilly-en-Cambrésis,Nord,59,rumilly en cambresis
+59521,Sailly-lez-Cambrai,Nord,59,sailly lez cambrai
+59522,Sailly-lez-Lannoy,Nord,59,sailly lez lannoy
+59523,Sainghin-en-Mélantois,Nord,59,sainghin en melantois
+59524,Sainghin-en-Weppes,Nord,59,sainghin en weppes
+59525,Sains-du-Nord,Nord,59,sains du nord
+59526,Saint-Amand-les-Eaux,Nord,59,saint amand les eaux
+59527,Saint-André-lez-Lille,Nord,59,saint andre lez lille
+59528,Saint-Aubert,Nord,59,saint aubert
+59529,Saint-Aubin,Nord,59,saint aubin
+59530,Saint-Aybert,Nord,59,saint aybert
+59531,Saint-Benin,Nord,59,saint benin
+59532,Saint-Georges-sur-l'Aa,Nord,59,saint georges sur l aa
+59533,Saint-Hilaire-lez-Cambrai,Nord,59,saint hilaire lez cambrai
+59534,Saint-Hilaire-sur-Helpe,Nord,59,saint hilaire sur helpe
+59535,Saint-Jans-Cappel,Nord,59,saint jans cappel
+59536,Sainte-Marie-Cappel,Nord,59,sainte marie cappel
+59537,Saint-Martin-sur-Écaillon,Nord,59,saint martin sur ecaillon
+59538,Saint-Momelin,Nord,59,saint momelin
+59539,Saint-Pierre-Brouck,Nord,59,saint pierre brouck
+59541,Saint-Python,Nord,59,saint python
+59542,Saint-Remy-Chaussée,Nord,59,saint remy chaussee
+59543,Saint-Remy-du-Nord,Nord,59,saint remy du nord
+59544,Saint-Saulve,Nord,59,saint saulve
+59545,Saint-Souplet,Nord,59,saint souplet
+59546,Saint-Sylvestre-Cappel,Nord,59,saint sylvestre cappel
+59547,Saint-Vaast-en-Cambrésis,Nord,59,saint vaast en cambresis
+59548,Saint-Waast,Nord,59,saint waast
+59549,Salesches,Nord,59,salesches
+59550,Salomé,Nord,59,salome
+59551,Saméon,Nord,59,sameon
+59552,Sancourt,Nord,59,sancourt
+59553,Santes,Nord,59,santes
+59554,Sars-et-Rosières,Nord,59,sars et rosieres
+59555,Sars-Poteries,Nord,59,sars poteries
+59556,Sassegnies,Nord,59,sassegnies
+59557,Saultain,Nord,59,saultain
+59558,Saulzoir,Nord,59,saulzoir
+59559,Sebourg,Nord,59,sebourg
+59560,Seclin,Nord,59,seclin
+59562,Sémeries,Nord,59,semeries
+59563,Semousies,Nord,59,semousies
+59564,La Sentinelle,Nord,59,la sentinelle
+59565,Sepmeries,Nord,59,sepmeries
+59566,Sequedin,Nord,59,sequedin
+59567,Séranvillers-Forenville,Nord,59,seranvillers forenville
+59568,Sercus,Nord,59,sercus
+59569,Sin-le-Noble,Nord,59,sin le noble
+59570,Socx,Nord,59,socx
+59571,Solesmes,Nord,59,solesmes
+59572,Solre-le-Château,Nord,59,solre le chateau
+59573,Solrinnes,Nord,59,solrinnes
+59574,Somain,Nord,59,somain
+59575,Sommaing,Nord,59,sommaing
+59576,Spycker,Nord,59,spycker
+59577,Staple,Nord,59,staple
+59578,Steenbecque,Nord,59,steenbecque
+59579,Steene,Nord,59,steene
+59580,Steenvoorde,Nord,59,steenvoorde
+59581,Steenwerck,Nord,59,steenwerck
+59582,Strazeele,Nord,59,strazeele
+59583,Taisnières-en-Thiérache,Nord,59,taisnieres en thierache
+59584,Taisnières-sur-Hon,Nord,59,taisnieres sur hon
+59585,Templemars,Nord,59,templemars
+59586,Templeuve-en-Pévèle,Nord,59,templeuve en pevele
+59587,Terdeghem,Nord,59,terdeghem
+59588,Téteghem-Coudekerque-Village,Nord,59,teteghem coudekerque village
+59589,Thiant,Nord,59,thiant
+59590,Thiennes,Nord,59,thiennes
+59591,Thivencelle,Nord,59,thivencelle
+59592,Thumeries,Nord,59,thumeries
+59593,Thun-l'Évêque,Nord,59,thun l eveque
+59594,Thun-Saint-Amand,Nord,59,thun saint amand
+59595,Thun-Saint-Martin,Nord,59,thun saint martin
+59596,Tilloy-lez-Marchiennes,Nord,59,tilloy lez marchiennes
+59597,Tilloy-lez-Cambrai,Nord,59,tilloy lez cambrai
+59598,Toufflers,Nord,59,toufflers
+59599,Tourcoing,Nord,59,tourcoing
+59600,Tourmignies,Nord,59,tourmignies
+59601,Trélon,Nord,59,trelon
+59602,Tressin,Nord,59,tressin
+59603,Trith-Saint-Léger,Nord,59,trith saint leger
+59604,Troisvilles,Nord,59,troisvilles
+59605,Uxem,Nord,59,uxem
+59606,Valenciennes,Nord,59,valenciennes
+59607,Vendegies-au-Bois,Nord,59,vendegies au bois
+59608,Vendegies-sur-Écaillon,Nord,59,vendegies sur ecaillon
+59609,Vendeville,Nord,59,vendeville
+59610,Verchain-Maugré,Nord,59,verchain maugre
+59611,Verlinghem,Nord,59,verlinghem
+59612,Vertain,Nord,59,vertain
+59613,Vicq,Nord,59,vicq
+59614,Viesly,Nord,59,viesly
+59615,Vieux-Berquin,Nord,59,vieux berquin
+59616,Vieux-Condé,Nord,59,vieux conde
+59617,Vieux-Mesnil,Nord,59,vieux mesnil
+59618,Vieux-Reng,Nord,59,vieux reng
+59619,Villereau,Nord,59,villereau
+59620,Villers-au-Tertre,Nord,59,villers au tertre
+59622,Villers-en-Cauchies,Nord,59,villers en cauchies
+59623,Villers-Guislain,Nord,59,villers guislain
+59624,Villers-Outréaux,Nord,59,villers outreaux
+59625,Villers-Plouich,Nord,59,villers plouich
+59626,Villers-Pol,Nord,59,villers pol
+59627,Villers-Sire-Nicole,Nord,59,villers sire nicole
+59628,Volckerinckhove,Nord,59,volckerinckhove
+59629,Vred,Nord,59,vred
+59630,Wahagnies,Nord,59,wahagnies
+59631,Walincourt-Selvigny,Nord,59,walincourt selvigny
+59632,Wallers,Nord,59,wallers
+59633,Wallers-en-Fagne,Nord,59,wallers en fagne
+59634,Wallon-Cappel,Nord,59,wallon cappel
+59635,Wambaix,Nord,59,wambaix
+59636,Wambrechies,Nord,59,wambrechies
+59637,Wandignies-Hamage,Nord,59,wandignies hamage
+59638,Wannehain,Nord,59,wannehain
+59639,Wargnies-le-Grand,Nord,59,wargnies le grand
+59640,Wargnies-le-Petit,Nord,59,wargnies le petit
+59641,Warhem,Nord,59,warhem
+59642,Warlaing,Nord,59,warlaing
+59643,Warneton,Nord,59,warneton
+59645,Wasnes-au-Bac,Nord,59,wasnes au bac
+59646,Wasquehal,Nord,59,wasquehal
+59647,Watten,Nord,59,watten
+59648,Wattignies,Nord,59,wattignies
+59649,Wattignies-la-Victoire,Nord,59,wattignies la victoire
+59650,Wattrelos,Nord,59,wattrelos
+59651,Wavrechain-sous-Denain,Nord,59,wavrechain sous denain
+59652,Wavrechain-sous-Faulx,Nord,59,wavrechain sous faulx
+59653,Wavrin,Nord,59,wavrin
+59654,Waziers,Nord,59,waziers
+59655,Wemaers-Cappel,Nord,59,wemaers cappel
+59656,Wervicq-Sud,Nord,59,wervicq sud
+59657,West-Cappel,Nord,59,west cappel
+59658,Wicres,Nord,59,wicres
+59659,Wignehies,Nord,59,wignehies
+59660,Willems,Nord,59,willems
+59661,Willies,Nord,59,willies
+59662,Winnezeele,Nord,59,winnezeele
+59663,Wormhout,Nord,59,wormhout
+59664,Wulverdinghe,Nord,59,wulverdinghe
+59665,Wylder,Nord,59,wylder
+59666,Zegerscappel,Nord,59,zegerscappel
+59667,Zermezeele,Nord,59,zermezeele
+59668,Zuydcoote,Nord,59,zuydcoote
+59669,Zuytpeene,Nord,59,zuytpeene
+59670,Don,Nord,59,don
+62001,Ablain-Saint-Nazaire,Pas-de-Calais,62,ablain saint nazaire
+62002,Ablainzevelle,Pas-de-Calais,62,ablainzevelle
+62003,Acheville,Pas-de-Calais,62,acheville
+62004,Achicourt,Pas-de-Calais,62,achicourt
+62005,Achiet-le-Grand,Pas-de-Calais,62,achiet le grand
+62006,Achiet-le-Petit,Pas-de-Calais,62,achiet le petit
+62007,Acq,Pas-de-Calais,62,acq
+62008,Acquin-Westbécourt,Pas-de-Calais,62,acquin westbecourt
+62009,Adinfer,Pas-de-Calais,62,adinfer
+62010,Affringues,Pas-de-Calais,62,affringues
+62011,Agnez-lès-Duisans,Pas-de-Calais,62,agnez les duisans
+62012,Agnières,Pas-de-Calais,62,agnieres
+62013,Agny,Pas-de-Calais,62,agny
+62014,Aire-sur-la-Lys,Pas-de-Calais,62,aire sur la lys
+62015,Airon-Notre-Dame,Pas-de-Calais,62,airon notre dame
+62016,Airon-Saint-Vaast,Pas-de-Calais,62,airon saint vaast
+62017,Aix-en-Ergny,Pas-de-Calais,62,aix en ergny
+62018,Aix-en-Issart,Pas-de-Calais,62,aix en issart
+62019,Aix-Noulette,Pas-de-Calais,62,aix noulette
+62020,Alembon,Pas-de-Calais,62,alembon
+62021,Alette,Pas-de-Calais,62,alette
+62022,Alincthun,Pas-de-Calais,62,alincthun
+62023,Allouagne,Pas-de-Calais,62,allouagne
+62024,Alquines,Pas-de-Calais,62,alquines
+62025,Ambleteuse,Pas-de-Calais,62,ambleteuse
+62026,Ambricourt,Pas-de-Calais,62,ambricourt
+62027,Ambrines,Pas-de-Calais,62,ambrines
+62028,Ames,Pas-de-Calais,62,ames
+62029,Amettes,Pas-de-Calais,62,amettes
+62030,Amplier,Pas-de-Calais,62,amplier
+62031,Andres,Pas-de-Calais,62,andres
+62032,Angres,Pas-de-Calais,62,angres
+62033,Annay,Pas-de-Calais,62,annay
+62034,Annequin,Pas-de-Calais,62,annequin
+62035,Annezin,Pas-de-Calais,62,annezin
+62036,Anvin,Pas-de-Calais,62,anvin
+62037,Anzin-Saint-Aubin,Pas-de-Calais,62,anzin saint aubin
+62038,Ardres,Pas-de-Calais,62,ardres
+62039,Arleux-en-Gohelle,Pas-de-Calais,62,arleux en gohelle
+62040,Arques,Pas-de-Calais,62,arques
+62041,Arras,Pas-de-Calais,62,arras
+62042,Athies,Pas-de-Calais,62,athies
+62043,Les Attaques,Pas-de-Calais,62,les attaques
+62044,Attin,Pas-de-Calais,62,attin
+62045,Aubigny-en-Artois,Pas-de-Calais,62,aubigny en artois
+62046,Aubin-Saint-Vaast,Pas-de-Calais,62,aubin saint vaast
+62047,Aubrometz,Pas-de-Calais,62,aubrometz
+62048,Auchel,Pas-de-Calais,62,auchel
+62049,Auchy-au-Bois,Pas-de-Calais,62,auchy au bois
+62050,Auchy-lès-Hesdin,Pas-de-Calais,62,auchy les hesdin
+62051,Auchy-les-Mines,Pas-de-Calais,62,auchy les mines
+62052,Audembert,Pas-de-Calais,62,audembert
+62053,Audincthun,Pas-de-Calais,62,audincthun
+62054,Audinghen,Pas-de-Calais,62,audinghen
+62055,Audrehem,Pas-de-Calais,62,audrehem
+62056,Audresselles,Pas-de-Calais,62,audresselles
+62057,Audruicq,Pas-de-Calais,62,audruicq
+62058,Aumerval,Pas-de-Calais,62,aumerval
+62059,Autingues,Pas-de-Calais,62,autingues
+62060,Auxi-le-Château,Pas-de-Calais,62,auxi le chateau
+62061,Averdoingt,Pas-de-Calais,62,averdoingt
+62062,Avesnes,Pas-de-Calais,62,avesnes
+62063,Avesnes-le-Comte,Pas-de-Calais,62,avesnes le comte
+62064,Avesnes-lès-Bapaume,Pas-de-Calais,62,avesnes les bapaume
+62065,Avion,Pas-de-Calais,62,avion
+62066,Avondance,Pas-de-Calais,62,avondance
+62067,Avroult,Pas-de-Calais,62,avroult
+62068,Ayette,Pas-de-Calais,62,ayette
+62069,Azincourt,Pas-de-Calais,62,azincourt
+62070,Bailleul-aux-Cornailles,Pas-de-Calais,62,bailleul aux cornailles
+62071,Bailleul-lès-Pernes,Pas-de-Calais,62,bailleul les pernes
+62072,Bailleulmont,Pas-de-Calais,62,bailleulmont
+62073,Bailleul-Sir-Berthoult,Pas-de-Calais,62,bailleul sir berthoult
+62074,Bailleulval,Pas-de-Calais,62,bailleulval
+62075,Baincthun,Pas-de-Calais,62,baincthun
+62076,Bainghen,Pas-de-Calais,62,bainghen
+62077,Bajus,Pas-de-Calais,62,bajus
+62078,Balinghem,Pas-de-Calais,62,balinghem
+62079,Bancourt,Pas-de-Calais,62,bancourt
+62080,Bapaume,Pas-de-Calais,62,bapaume
+62081,Baralle,Pas-de-Calais,62,baralle
+62082,Barastre,Pas-de-Calais,62,barastre
+62083,Barlin,Pas-de-Calais,62,barlin
+62084,Barly,Pas-de-Calais,62,barly
+62085,Basseux,Pas-de-Calais,62,basseux
+62086,Bavincourt,Pas-de-Calais,62,bavincourt
+62087,Bayenghem-lès-Éperlecques,Pas-de-Calais,62,bayenghem les eperlecques
+62088,Bayenghem-lès-Seninghem,Pas-de-Calais,62,bayenghem les seninghem
+62089,Bazinghen,Pas-de-Calais,62,bazinghen
+62090,Béalencourt,Pas-de-Calais,62,bealencourt
+62091,Beaudricourt,Pas-de-Calais,62,beaudricourt
+62092,Beaufort-Blavincourt,Pas-de-Calais,62,beaufort blavincourt
+62093,Beaulencourt,Pas-de-Calais,62,beaulencourt
+62094,Beaumerie-Saint-Martin,Pas-de-Calais,62,beaumerie saint martin
+62095,Beaumetz-lès-Aire,Pas-de-Calais,62,beaumetz les aire
+62096,Beaumetz-lès-Cambrai,Pas-de-Calais,62,beaumetz les cambrai
+62097,Beaumetz-lès-Loges,Pas-de-Calais,62,beaumetz les loges
+62099,Beaurains,Pas-de-Calais,62,beaurains
+62100,Beaurainville,Pas-de-Calais,62,beaurainville
+62101,Beauvois,Pas-de-Calais,62,beauvois
+62102,Bécourt,Pas-de-Calais,62,becourt
+62103,Béhagnies,Pas-de-Calais,62,behagnies
+62104,Bellebrune,Pas-de-Calais,62,bellebrune
+62105,Belle-et-Houllefort,Pas-de-Calais,62,belle et houllefort
+62106,Bellonne,Pas-de-Calais,62,bellonne
+62107,Bénifontaine,Pas-de-Calais,62,benifontaine
+62108,Berck,Pas-de-Calais,62,berck
+62109,Bergueneuse,Pas-de-Calais,62,bergueneuse
+62111,Berlencourt-le-Cauroy,Pas-de-Calais,62,berlencourt le cauroy
+62112,Berles-au-Bois,Pas-de-Calais,62,berles au bois
+62113,Berles-Monchel,Pas-de-Calais,62,berles monchel
+62114,Bermicourt,Pas-de-Calais,62,bermicourt
+62115,Berneville,Pas-de-Calais,62,berneville
+62116,Bernieulles,Pas-de-Calais,62,bernieulles
+62117,Bertincourt,Pas-de-Calais,62,bertincourt
+62118,Béthonsart,Pas-de-Calais,62,bethonsart
+62119,Béthune,Pas-de-Calais,62,bethune
+62120,Beugin,Pas-de-Calais,62,beugin
+62121,Beugnâtre,Pas-de-Calais,62,beugnatre
+62122,Beugny,Pas-de-Calais,62,beugny
+62123,Beussent,Pas-de-Calais,62,beussent
+62124,Beutin,Pas-de-Calais,62,beutin
+62125,Beuvrequen,Pas-de-Calais,62,beuvrequen
+62126,Beuvry,Pas-de-Calais,62,beuvry
+62127,Bezinghem,Pas-de-Calais,62,bezinghem
+62128,Biache-Saint-Vaast,Pas-de-Calais,62,biache saint vaast
+62129,Biefvillers-lès-Bapaume,Pas-de-Calais,62,biefvillers les bapaume
+62130,Bienvillers-au-Bois,Pas-de-Calais,62,bienvillers au bois
+62131,Bihucourt,Pas-de-Calais,62,bihucourt
+62132,Billy-Berclau,Pas-de-Calais,62,billy berclau
+62133,Billy-Montigny,Pas-de-Calais,62,billy montigny
+62134,Bimont,Pas-de-Calais,62,bimont
+62135,Blairville,Pas-de-Calais,62,blairville
+62137,Blangerval-Blangermont,Pas-de-Calais,62,blangerval blangermont
+62138,Blangy-sur-Ternoise,Pas-de-Calais,62,blangy sur ternoise
+62139,Blendecques,Pas-de-Calais,62,blendecques
+62140,Bléquin,Pas-de-Calais,62,blequin
+62141,Blessy,Pas-de-Calais,62,blessy
+62142,Blingel,Pas-de-Calais,62,blingel
+62143,Boffles,Pas-de-Calais,62,boffles
+62144,Boiry-Becquerelle,Pas-de-Calais,62,boiry becquerelle
+62145,Boiry-Notre-Dame,Pas-de-Calais,62,boiry notre dame
+62146,Boiry-Saint-Martin,Pas-de-Calais,62,boiry saint martin
+62147,Boiry-Sainte-Rictrude,Pas-de-Calais,62,boiry sainte rictrude
+62148,Bois-Bernard,Pas-de-Calais,62,bois bernard
+62149,Boisdinghem,Pas-de-Calais,62,boisdinghem
+62150,Boisjean,Pas-de-Calais,62,boisjean
+62151,Boisleux-au-Mont,Pas-de-Calais,62,boisleux au mont
+62152,Boisleux-Saint-Marc,Pas-de-Calais,62,boisleux saint marc
+62153,Bomy,Pas-de-Calais,62,bomy
+62154,Bonnières,Pas-de-Calais,62,bonnieres
+62155,Bonningues-lès-Ardres,Pas-de-Calais,62,bonningues les ardres
+62156,Bonningues-lès-Calais,Pas-de-Calais,62,bonningues les calais
+62157,Boubers-lès-Hesmond,Pas-de-Calais,62,boubers les hesmond
+62158,Boubers-sur-Canche,Pas-de-Calais,62,boubers sur canche
+62160,Boulogne-sur-Mer,Pas-de-Calais,62,boulogne sur mer
+62161,Bouquehault,Pas-de-Calais,62,bouquehault
+62162,Bourecq,Pas-de-Calais,62,bourecq
+62163,Bouret-sur-Canche,Pas-de-Calais,62,bouret sur canche
+62164,Bourlon,Pas-de-Calais,62,bourlon
+62165,Bournonville,Pas-de-Calais,62,bournonville
+62166,Bours,Pas-de-Calais,62,bours
+62167,Boursin,Pas-de-Calais,62,boursin
+62168,Bourthes,Pas-de-Calais,62,bourthes
+62169,Bouvelinghem,Pas-de-Calais,62,bouvelinghem
+62170,Bouvigny-Boyeffles,Pas-de-Calais,62,bouvigny boyeffles
+62171,Boyaval,Pas-de-Calais,62,boyaval
+62172,Boyelles,Pas-de-Calais,62,boyelles
+62173,Brebières,Pas-de-Calais,62,brebieres
+62174,Brêmes,Pas-de-Calais,62,bremes
+62175,Brévillers,Pas-de-Calais,62,brevillers
+62176,Bréxent-Énocq,Pas-de-Calais,62,brexent enocq
+62177,Brimeux,Pas-de-Calais,62,brimeux
+62178,Bruay-la-Buissière,Pas-de-Calais,62,bruay la buissiere
+62179,Brunembert,Pas-de-Calais,62,brunembert
+62180,Brias,Pas-de-Calais,62,brias
+62181,Bucquoy,Pas-de-Calais,62,bucquoy
+62182,Buire-au-Bois,Pas-de-Calais,62,buire au bois
+62183,Buire-le-Sec,Pas-de-Calais,62,buire le sec
+62184,Buissy,Pas-de-Calais,62,buissy
+62185,Bullecourt,Pas-de-Calais,62,bullecourt
+62186,Bully-les-Mines,Pas-de-Calais,62,bully les mines
+62187,Buneville,Pas-de-Calais,62,buneville
+62188,Burbure,Pas-de-Calais,62,burbure
+62189,Bus,Pas-de-Calais,62,bus
+62190,Busnes,Pas-de-Calais,62,busnes
+62191,Caffiers,Pas-de-Calais,62,caffiers
+62192,Cagnicourt,Pas-de-Calais,62,cagnicourt
+62193,Calais,Pas-de-Calais,62,calais
+62194,Calonne-Ricouart,Pas-de-Calais,62,calonne ricouart
+62195,Calonne-sur-la-Lys,Pas-de-Calais,62,calonne sur la lys
+62196,La Calotterie,Pas-de-Calais,62,la calotterie
+62197,Camblain-Châtelain,Pas-de-Calais,62,camblain chatelain
+62198,Cambligneul,Pas-de-Calais,62,cambligneul
+62199,Camblain-l'Abbé,Pas-de-Calais,62,camblain l abbe
+62200,Cambrin,Pas-de-Calais,62,cambrin
+62201,Camiers,Pas-de-Calais,62,camiers
+62202,Campagne-lès-Boulonnais,Pas-de-Calais,62,campagne les boulonnais
+62203,Campagne-lès-Guines,Pas-de-Calais,62,campagne les guines
+62204,Campagne-lès-Hesdin,Pas-de-Calais,62,campagne les hesdin
+62205,Campagne-lès-Wardrecques,Pas-de-Calais,62,campagne les wardrecques
+62206,Campigneulles-les-Grandes,Pas-de-Calais,62,campigneulles les grandes
+62207,Campigneulles-les-Petites,Pas-de-Calais,62,campigneulles les petites
+62208,Canettemont,Pas-de-Calais,62,canettemont
+62209,Canlers,Pas-de-Calais,62,canlers
+62211,Capelle-Fermont,Pas-de-Calais,62,capelle fermont
+62212,Capelle-lès-Hesdin,Pas-de-Calais,62,capelle les hesdin
+62213,Carency,Pas-de-Calais,62,carency
+62214,Carly,Pas-de-Calais,62,carly
+62215,Carvin,Pas-de-Calais,62,carvin
+62216,La Cauchie,Pas-de-Calais,62,la cauchie
+62217,Cauchy-à-la-Tour,Pas-de-Calais,62,cauchy a la tour
+62218,Caucourt,Pas-de-Calais,62,caucourt
+62219,Caumont,Pas-de-Calais,62,caumont
+62220,Cavron-Saint-Martin,Pas-de-Calais,62,cavron saint martin
+62221,Chelers,Pas-de-Calais,62,chelers
+62222,Chériennes,Pas-de-Calais,62,cheriennes
+62223,Chérisy,Pas-de-Calais,62,cherisy
+62224,Chocques,Pas-de-Calais,62,chocques
+62225,Clairmarais,Pas-de-Calais,62,clairmarais
+62227,Clenleu,Pas-de-Calais,62,clenleu
+62228,Clerques,Pas-de-Calais,62,clerques
+62229,Cléty,Pas-de-Calais,62,clety
+62230,Colembert,Pas-de-Calais,62,colembert
+62231,Colline-Beaumont,Pas-de-Calais,62,colline beaumont
+62232,La Comté,Pas-de-Calais,62,la comte
+62233,Conchil-le-Temple,Pas-de-Calais,62,conchil le temple
+62234,Conchy-sur-Canche,Pas-de-Calais,62,conchy sur canche
+62235,Condette,Pas-de-Calais,62,condette
+62236,Contes,Pas-de-Calais,62,contes
+62237,Conteville-lès-Boulogne,Pas-de-Calais,62,conteville les boulogne
+62238,Conteville-en-Ternois,Pas-de-Calais,62,conteville en ternois
+62239,Coquelles,Pas-de-Calais,62,coquelles
+62240,Corbehem,Pas-de-Calais,62,corbehem
+62241,Cormont,Pas-de-Calais,62,cormont
+62242,Couin,Pas-de-Calais,62,couin
+62243,Coullemont,Pas-de-Calais,62,coullemont
+62244,Coulogne,Pas-de-Calais,62,coulogne
+62245,Coulomby,Pas-de-Calais,62,coulomby
+62246,Coupelle-Neuve,Pas-de-Calais,62,coupelle neuve
+62247,Coupelle-Vieille,Pas-de-Calais,62,coupelle vieille
+62248,Courcelles-le-Comte,Pas-de-Calais,62,courcelles le comte
+62249,Courcelles-lès-Lens,Pas-de-Calais,62,courcelles les lens
+62250,Courrières,Pas-de-Calais,62,courrieres
+62251,Courset,Pas-de-Calais,62,courset
+62252,La Couture,Pas-de-Calais,62,la couture
+62253,Couturelle,Pas-de-Calais,62,couturelle
+62254,Coyecques,Pas-de-Calais,62,coyecques
+62255,Crémarest,Pas-de-Calais,62,cremarest
+62256,Crépy,Pas-de-Calais,62,crepy
+62257,Créquy,Pas-de-Calais,62,crequy
+62258,Croisette,Pas-de-Calais,62,croisette
+62259,Croisilles,Pas-de-Calais,62,croisilles
+62260,Croix-en-Ternois,Pas-de-Calais,62,croix en ternois
+62261,Cucq,Pas-de-Calais,62,cucq
+62262,Cuinchy,Pas-de-Calais,62,cuinchy
+62263,Dainville,Pas-de-Calais,62,dainville
+62264,Dannes,Pas-de-Calais,62,dannes
+62265,Delettes,Pas-de-Calais,62,delettes
+62266,Denier,Pas-de-Calais,62,denier
+62267,Dennebrœucq,Pas-de-Calais,62,dennebrucq
+62268,Desvres,Pas-de-Calais,62,desvres
+62269,Diéval,Pas-de-Calais,62,dieval
+62270,Divion,Pas-de-Calais,62,divion
+62271,Dohem,Pas-de-Calais,62,dohem
+62272,Douchy-lès-Ayette,Pas-de-Calais,62,douchy les ayette
+62273,Doudeauville,Pas-de-Calais,62,doudeauville
+62274,Dourges,Pas-de-Calais,62,dourges
+62275,Douriez,Pas-de-Calais,62,douriez
+62276,Douvrin,Pas-de-Calais,62,douvrin
+62277,Drocourt,Pas-de-Calais,62,drocourt
+62278,Drouvin-le-Marais,Pas-de-Calais,62,drouvin le marais
+62279,Duisans,Pas-de-Calais,62,duisans
+62280,Dury,Pas-de-Calais,62,dury
+62281,Echinghen,Pas-de-Calais,62,echinghen
+62282,Éclimeux,Pas-de-Calais,62,eclimeux
+62283,Écoivres,Pas-de-Calais,62,ecoivres
+62284,Écourt-Saint-Quentin,Pas-de-Calais,62,ecourt saint quentin
+62285,Écoust-Saint-Mein,Pas-de-Calais,62,ecoust saint mein
+62286,Ecquedecques,Pas-de-Calais,62,ecquedecques
+62288,Ecques,Pas-de-Calais,62,ecques
+62289,Écuires,Pas-de-Calais,62,ecuires
+62290,Écurie,Pas-de-Calais,62,ecurie
+62291,Éleu-dit-Leauwette,Pas-de-Calais,62,eleu dit leauwette
+62292,Elnes,Pas-de-Calais,62,elnes
+62293,Embry,Pas-de-Calais,62,embry
+62295,Enquin-lez-Guinegatte,Pas-de-Calais,62,enquin lez guinegatte
+62296,Enquin-sur-Baillons,Pas-de-Calais,62,enquin sur baillons
+62297,Éperlecques,Pas-de-Calais,62,eperlecques
+62298,Épinoy,Pas-de-Calais,62,epinoy
+62299,Eps,Pas-de-Calais,62,eps
+62300,Équihen-Plage,Pas-de-Calais,62,equihen plage
+62301,Équirre,Pas-de-Calais,62,equirre
+62302,Ergny,Pas-de-Calais,62,ergny
+62303,Érin,Pas-de-Calais,62,erin
+62304,Erny-Saint-Julien,Pas-de-Calais,62,erny saint julien
+62306,Ervillers,Pas-de-Calais,62,ervillers
+62307,Escalles,Pas-de-Calais,62,escalles
+62308,Escœuilles,Pas-de-Calais,62,escuilles
+62309,Esquerdes,Pas-de-Calais,62,esquerdes
+62310,Essars,Pas-de-Calais,62,essars
+62311,Estevelles,Pas-de-Calais,62,estevelles
+62312,Estrée,Pas-de-Calais,62,estree
+62313,Estrée-Blanche,Pas-de-Calais,62,estree blanche
+62314,Estrée-Cauchy,Pas-de-Calais,62,estree cauchy
+62315,Estréelles,Pas-de-Calais,62,estreelles
+62316,Estrée-Wamin,Pas-de-Calais,62,estree wamin
+62317,Étaing,Pas-de-Calais,62,etaing
+62318,Étaples,Pas-de-Calais,62,etaples
+62319,Éterpigny,Pas-de-Calais,62,eterpigny
+62320,Étrun,Pas-de-Calais,62,etrun
+62321,Évin-Malmaison,Pas-de-Calais,62,evin malmaison
+62322,Famechon,Pas-de-Calais,62,famechon
+62323,Fampoux,Pas-de-Calais,62,fampoux
+62324,Farbus,Pas-de-Calais,62,farbus
+62325,Fauquembergues,Pas-de-Calais,62,fauquembergues
+62326,Favreuil,Pas-de-Calais,62,favreuil
+62327,Febvin-Palfart,Pas-de-Calais,62,febvin palfart
+62328,Ferfay,Pas-de-Calais,62,ferfay
+62329,Ferques,Pas-de-Calais,62,ferques
+62330,Festubert,Pas-de-Calais,62,festubert
+62331,Feuchy,Pas-de-Calais,62,feuchy
+62332,Ficheux,Pas-de-Calais,62,ficheux
+62333,Fiefs,Pas-de-Calais,62,fiefs
+62334,Fiennes,Pas-de-Calais,62,fiennes
+62335,Fillièvres,Pas-de-Calais,62,fillievres
+62336,Fléchin,Pas-de-Calais,62,flechin
+62337,Flers,Pas-de-Calais,62,flers
+62338,Fleurbaix,Pas-de-Calais,62,fleurbaix
+62339,Fleury,Pas-de-Calais,62,fleury
+62340,Floringhem,Pas-de-Calais,62,floringhem
+62341,Foncquevillers,Pas-de-Calais,62,foncquevillers
+62342,Fontaine-lès-Boulans,Pas-de-Calais,62,fontaine les boulans
+62343,Fontaine-lès-Croisilles,Pas-de-Calais,62,fontaine les croisilles
+62344,Fontaine-lès-Hermans,Pas-de-Calais,62,fontaine les hermans
+62345,Fontaine-l'Étalon,Pas-de-Calais,62,fontaine l etalon
+62346,Fortel-en-Artois,Pas-de-Calais,62,fortel en artois
+62347,Fosseux,Pas-de-Calais,62,fosseux
+62348,Foufflin-Ricametz,Pas-de-Calais,62,foufflin ricametz
+62349,Fouquereuil,Pas-de-Calais,62,fouquereuil
+62350,Fouquières-lès-Béthune,Pas-de-Calais,62,fouquieres les bethune
+62351,Fouquières-lès-Lens,Pas-de-Calais,62,fouquieres les lens
+62352,Framecourt,Pas-de-Calais,62,framecourt
+62353,Frémicourt,Pas-de-Calais,62,fremicourt
+62354,Frencq,Pas-de-Calais,62,frencq
+62355,Fresnes-lès-Montauban,Pas-de-Calais,62,fresnes les montauban
+62356,Fresnicourt-le-Dolmen,Pas-de-Calais,62,fresnicourt le dolmen
+62357,Fresnoy,Pas-de-Calais,62,fresnoy
+62358,Fresnoy-en-Gohelle,Pas-de-Calais,62,fresnoy en gohelle
+62359,Fressin,Pas-de-Calais,62,fressin
+62360,Fréthun,Pas-de-Calais,62,frethun
+62361,Frévent,Pas-de-Calais,62,frevent
+62362,Frévillers,Pas-de-Calais,62,frevillers
+62363,Frévin-Capelle,Pas-de-Calais,62,frevin capelle
+62364,Fruges,Pas-de-Calais,62,fruges
+62365,Galametz,Pas-de-Calais,62,galametz
+62366,Gauchin-Légal,Pas-de-Calais,62,gauchin legal
+62367,Gauchin-Verloingt,Pas-de-Calais,62,gauchin verloingt
+62368,Gaudiempré,Pas-de-Calais,62,gaudiempre
+62369,Gavrelle,Pas-de-Calais,62,gavrelle
+62370,Gennes-Ivergny,Pas-de-Calais,62,gennes ivergny
+62371,Givenchy-en-Gohelle,Pas-de-Calais,62,givenchy en gohelle
+62372,Givenchy-le-Noble,Pas-de-Calais,62,givenchy le noble
+62373,Givenchy-lès-la-Bassée,Pas-de-Calais,62,givenchy les la bassee
+62374,Gomiécourt,Pas-de-Calais,62,gomiecourt
+62375,Gommecourt,Pas-de-Calais,62,gommecourt
+62376,Gonnehem,Pas-de-Calais,62,gonnehem
+62377,Gosnay,Pas-de-Calais,62,gosnay
+62378,Gouves,Pas-de-Calais,62,gouves
+62379,Gouy-en-Artois,Pas-de-Calais,62,gouy en artois
+62380,Gouy-Servins,Pas-de-Calais,62,gouy servins
+62381,Gouy-en-Ternois,Pas-de-Calais,62,gouy en ternois
+62382,Gouy-Saint-André,Pas-de-Calais,62,gouy saint andre
+62383,Gouy-sous-Bellonne,Pas-de-Calais,62,gouy sous bellonne
+62384,Graincourt-lès-Havrincourt,Pas-de-Calais,62,graincourt les havrincourt
+62385,Grand-Rullecourt,Pas-de-Calais,62,grand rullecourt
+62386,Grenay,Pas-de-Calais,62,grenay
+62387,Grévillers,Pas-de-Calais,62,grevillers
+62388,Grigny,Pas-de-Calais,62,grigny
+62389,Grincourt-lès-Pas,Pas-de-Calais,62,grincourt les pas
+62390,Groffliers,Pas-de-Calais,62,groffliers
+62391,Guarbecque,Pas-de-Calais,62,guarbecque
+62392,Guémappe,Pas-de-Calais,62,guemappe
+62393,Guemps,Pas-de-Calais,62,guemps
+62395,Guigny,Pas-de-Calais,62,guigny
+62396,Guinecourt,Pas-de-Calais,62,guinecourt
+62397,Guînes,Pas-de-Calais,62,guines
+62398,Guisy,Pas-de-Calais,62,guisy
+62399,Habarcq,Pas-de-Calais,62,habarcq
+62400,Haillicourt,Pas-de-Calais,62,haillicourt
+62401,Haisnes,Pas-de-Calais,62,haisnes
+62402,Halinghen,Pas-de-Calais,62,halinghen
+62403,Hallines,Pas-de-Calais,62,hallines
+62404,Halloy,Pas-de-Calais,62,halloy
+62405,Hamblain-les-Prés,Pas-de-Calais,62,hamblain les pres
+62406,Hamelincourt,Pas-de-Calais,62,hamelincourt
+62407,Ham-en-Artois,Pas-de-Calais,62,ham en artois
+62408,Hames-Boucres,Pas-de-Calais,62,hames boucres
+62409,Hannescamps,Pas-de-Calais,62,hannescamps
+62410,Haplincourt,Pas-de-Calais,62,haplincourt
+62411,Haravesnes,Pas-de-Calais,62,haravesnes
+62412,Hardinghen,Pas-de-Calais,62,hardinghen
+62413,Harnes,Pas-de-Calais,62,harnes
+62414,Haucourt,Pas-de-Calais,62,haucourt
+62415,Haute-Avesnes,Pas-de-Calais,62,haute avesnes
+62416,Hautecloque,Pas-de-Calais,62,hautecloque
+62418,Hauteville,Pas-de-Calais,62,hauteville
+62419,Haut-Loquin,Pas-de-Calais,62,haut loquin
+62421,Havrincourt,Pas-de-Calais,62,havrincourt
+62422,Hébuterne,Pas-de-Calais,62,hebuterne
+62423,Helfaut,Pas-de-Calais,62,helfaut
+62424,Hendecourt-lès-Cagnicourt,Pas-de-Calais,62,hendecourt les cagnicourt
+62425,Hendecourt-lès-Ransart,Pas-de-Calais,62,hendecourt les ransart
+62426,Héninel,Pas-de-Calais,62,heninel
+62427,Hénin-Beaumont,Pas-de-Calais,62,henin beaumont
+62428,Hénin-sur-Cojeul,Pas-de-Calais,62,henin sur cojeul
+62429,Henneveux,Pas-de-Calais,62,henneveux
+62430,Hénu,Pas-de-Calais,62,henu
+62432,Herbinghen,Pas-de-Calais,62,herbinghen
+62433,Héricourt,Pas-de-Calais,62,hericourt
+62434,La Herlière,Pas-de-Calais,62,la herliere
+62435,Herlincourt,Pas-de-Calais,62,herlincourt
+62436,Herlin-le-Sec,Pas-de-Calais,62,herlin le sec
+62437,Herly,Pas-de-Calais,62,herly
+62438,Hermaville,Pas-de-Calais,62,hermaville
+62439,Hermelinghen,Pas-de-Calais,62,hermelinghen
+62440,Hermies,Pas-de-Calais,62,hermies
+62441,Hermin,Pas-de-Calais,62,hermin
+62442,Hernicourt,Pas-de-Calais,62,hernicourt
+62443,Hersin-Coupigny,Pas-de-Calais,62,hersin coupigny
+62444,Hervelinghen,Pas-de-Calais,62,hervelinghen
+62445,Hesdigneul-lès-Béthune,Pas-de-Calais,62,hesdigneul les bethune
+62446,Hesdigneul-lès-Boulogne,Pas-de-Calais,62,hesdigneul les boulogne
+62447,Hesdin-la-Forêt,Pas-de-Calais,62,hesdin la foret
+62448,Hesdin-l'Abbé,Pas-de-Calais,62,hesdin l abbe
+62449,Hesmond,Pas-de-Calais,62,hesmond
+62450,Hestrus,Pas-de-Calais,62,hestrus
+62451,Heuchin,Pas-de-Calais,62,heuchin
+62452,Heuringhem,Pas-de-Calais,62,heuringhem
+62453,Hézecques,Pas-de-Calais,62,hezecques
+62454,Hinges,Pas-de-Calais,62,hinges
+62455,Hocquinghen,Pas-de-Calais,62,hocquinghen
+62456,Houchin,Pas-de-Calais,62,houchin
+62457,Houdain,Pas-de-Calais,62,houdain
+62458,Houlle,Pas-de-Calais,62,houlle
+62459,Houvin-Houvigneul,Pas-de-Calais,62,houvin houvigneul
+62460,Hubersent,Pas-de-Calais,62,hubersent
+62462,Huclier,Pas-de-Calais,62,huclier
+62463,Hucqueliers,Pas-de-Calais,62,hucqueliers
+62464,Hulluch,Pas-de-Calais,62,hulluch
+62465,Humbercamps,Pas-de-Calais,62,humbercamps
+62466,Humbert,Pas-de-Calais,62,humbert
+62467,Humerœuille,Pas-de-Calais,62,humeruille
+62468,Humières,Pas-de-Calais,62,humieres
+62469,Inchy-en-Artois,Pas-de-Calais,62,inchy en artois
+62470,Incourt,Pas-de-Calais,62,incourt
+62471,Bellinghem,Pas-de-Calais,62,bellinghem
+62472,Inxent,Pas-de-Calais,62,inxent
+62473,Isbergues,Pas-de-Calais,62,isbergues
+62474,Isques,Pas-de-Calais,62,isques
+62475,Ivergny,Pas-de-Calais,62,ivergny
+62476,Izel-lès-Équerchin,Pas-de-Calais,62,izel les equerchin
+62477,Izel-lès-Hameau,Pas-de-Calais,62,izel les hameau
+62478,Journy,Pas-de-Calais,62,journy
+62479,Labeuvrière,Pas-de-Calais,62,labeuvriere
+62480,Labourse,Pas-de-Calais,62,labourse
+62481,Labroye,Pas-de-Calais,62,labroye
+62483,Lacres,Pas-de-Calais,62,lacres
+62484,Lagnicourt-Marcel,Pas-de-Calais,62,lagnicourt marcel
+62485,Laires,Pas-de-Calais,62,laires
+62486,Lambres,Pas-de-Calais,62,lambres
+62487,Landrethun-le-Nord,Pas-de-Calais,62,landrethun le nord
+62488,Landrethun-lès-Ardres,Pas-de-Calais,62,landrethun les ardres
+62489,Lapugnoy,Pas-de-Calais,62,lapugnoy
+62490,Lattre-Saint-Quentin,Pas-de-Calais,62,lattre saint quentin
+62491,Laventie,Pas-de-Calais,62,laventie
+62492,Lebiez,Pas-de-Calais,62,lebiez
+62493,Lebucquière,Pas-de-Calais,62,lebucquiere
+62494,Léchelle,Pas-de-Calais,62,lechelle
+62495,Ledinghem,Pas-de-Calais,62,ledinghem
+62496,Lefaux,Pas-de-Calais,62,lefaux
+62497,Leforest,Pas-de-Calais,62,leforest
+62498,Lens,Pas-de-Calais,62,lens
+62499,Lépine,Pas-de-Calais,62,lepine
+62500,Lespesses,Pas-de-Calais,62,lespesses
+62501,Lespinoy,Pas-de-Calais,62,lespinoy
+62502,Lestrem,Pas-de-Calais,62,lestrem
+62503,Leubringhen,Pas-de-Calais,62,leubringhen
+62504,Leulinghem,Pas-de-Calais,62,leulinghem
+62505,Leulinghen-Bernes,Pas-de-Calais,62,leulinghen bernes
+62506,Licques,Pas-de-Calais,62,licques
+62507,Liencourt,Pas-de-Calais,62,liencourt
+62508,Lières,Pas-de-Calais,62,lieres
+62509,Liettres,Pas-de-Calais,62,liettres
+62510,Liévin,Pas-de-Calais,62,lievin
+62511,Lignereuil,Pas-de-Calais,62,lignereuil
+62512,Ligny-lès-Aire,Pas-de-Calais,62,ligny les aire
+62513,Ligny-sur-Canche,Pas-de-Calais,62,ligny sur canche
+62514,Ligny-Saint-Flochel,Pas-de-Calais,62,ligny saint flochel
+62515,Ligny-Thilloy,Pas-de-Calais,62,ligny thilloy
+62516,Lillers,Pas-de-Calais,62,lillers
+62517,Linghem,Pas-de-Calais,62,linghem
+62518,Linzeux,Pas-de-Calais,62,linzeux
+62519,Lisbourg,Pas-de-Calais,62,lisbourg
+62520,Locon,Pas-de-Calais,62,locon
+62521,La Loge,Pas-de-Calais,62,la loge
+62522,Loison-sur-Créquoise,Pas-de-Calais,62,loison sur crequoise
+62523,Loison-sous-Lens,Pas-de-Calais,62,loison sous lens
+62524,Longfossé,Pas-de-Calais,62,longfosse
+62525,Longuenesse,Pas-de-Calais,62,longuenesse
+62526,Longueville,Pas-de-Calais,62,longueville
+62527,Longvilliers,Pas-de-Calais,62,longvilliers
+62528,Loos-en-Gohelle,Pas-de-Calais,62,loos en gohelle
+62529,Lorgies,Pas-de-Calais,62,lorgies
+62530,Lottinghen,Pas-de-Calais,62,lottinghen
+62531,Louches,Pas-de-Calais,62,louches
+62532,Lozinghem,Pas-de-Calais,62,lozinghem
+62533,Lugy,Pas-de-Calais,62,lugy
+62534,Lumbres,Pas-de-Calais,62,lumbres
+62535,La Madelaine-sous-Montreuil,Pas-de-Calais,62,la madelaine sous montreuil
+62536,Magnicourt-en-Comte,Pas-de-Calais,62,magnicourt en comte
+62537,Magnicourt-sur-Canche,Pas-de-Calais,62,magnicourt sur canche
+62538,Maintenay,Pas-de-Calais,62,maintenay
+62539,Maisnil,Pas-de-Calais,62,maisnil
+62540,Maisnil-lès-Ruitz,Pas-de-Calais,62,maisnil les ruitz
+62541,Maisoncelle,Pas-de-Calais,62,maisoncelle
+62542,Maizières,Pas-de-Calais,62,maizieres
+62543,Mametz,Pas-de-Calais,62,mametz
+62544,Manin,Pas-de-Calais,62,manin
+62545,Maninghem,Pas-de-Calais,62,maninghem
+62546,Maninghen-Henne,Pas-de-Calais,62,maninghen henne
+62547,Marant,Pas-de-Calais,62,marant
+62548,Marck,Pas-de-Calais,62,marck
+62550,Marconnelle,Pas-de-Calais,62,marconnelle
+62551,Marenla,Pas-de-Calais,62,marenla
+62552,Maresquel-Ecquemicourt,Pas-de-Calais,62,maresquel ecquemicourt
+62553,Marest,Pas-de-Calais,62,marest
+62554,Maresville,Pas-de-Calais,62,maresville
+62555,Marles-les-Mines,Pas-de-Calais,62,marles les mines
+62556,Marles-sur-Canche,Pas-de-Calais,62,marles sur canche
+62557,Marœuil,Pas-de-Calais,62,maruil
+62558,Marquay,Pas-de-Calais,62,marquay
+62559,Marquion,Pas-de-Calais,62,marquion
+62560,Marquise,Pas-de-Calais,62,marquise
+62561,Martinpuich,Pas-de-Calais,62,martinpuich
+62562,Matringhem,Pas-de-Calais,62,matringhem
+62563,Mazingarbe,Pas-de-Calais,62,mazingarbe
+62564,Mazinghem,Pas-de-Calais,62,mazinghem
+62565,Mencas,Pas-de-Calais,62,mencas
+62566,Menneville,Pas-de-Calais,62,menneville
+62567,Mentque-Nortbécourt,Pas-de-Calais,62,mentque nortbecourt
+62568,Mercatel,Pas-de-Calais,62,mercatel
+62569,Merck-Saint-Liévin,Pas-de-Calais,62,merck saint lievin
+62570,Méricourt,Pas-de-Calais,62,mericourt
+62571,Merlimont,Pas-de-Calais,62,merlimont
+62572,Metz-en-Couture,Pas-de-Calais,62,metz en couture
+62573,Meurchin,Pas-de-Calais,62,meurchin
+62574,Mingoval,Pas-de-Calais,62,mingoval
+62576,Moncheaux-lès-Frévent,Pas-de-Calais,62,moncheaux les frevent
+62577,Monchel-sur-Canche,Pas-de-Calais,62,monchel sur canche
+62578,Monchiet,Pas-de-Calais,62,monchiet
+62579,Monchy-au-Bois,Pas-de-Calais,62,monchy au bois
+62580,Monchy-Breton,Pas-de-Calais,62,monchy breton
+62581,Monchy-Cayeux,Pas-de-Calais,62,monchy cayeux
+62582,Monchy-le-Preux,Pas-de-Calais,62,monchy le preux
+62583,Mondicourt,Pas-de-Calais,62,mondicourt
+62584,Mont-Bernanchon,Pas-de-Calais,62,mont bernanchon
+62585,Montcavrel,Pas-de-Calais,62,montcavrel
+62586,Montenescourt,Pas-de-Calais,62,montenescourt
+62587,Montigny-en-Gohelle,Pas-de-Calais,62,montigny en gohelle
+62588,Montreuil-sur-Mer,Pas-de-Calais,62,montreuil sur mer
+62589,Mont-Saint-Éloi,Pas-de-Calais,62,mont saint eloi
+62590,Monts-en-Ternois,Pas-de-Calais,62,monts en ternois
+62591,Morchies,Pas-de-Calais,62,morchies
+62592,Moringhem,Pas-de-Calais,62,moringhem
+62593,Morval,Pas-de-Calais,62,morval
+62594,Mory,Pas-de-Calais,62,mory
+62595,Moulle,Pas-de-Calais,62,moulle
+62596,Mouriez,Pas-de-Calais,62,mouriez
+62597,Moyenneville,Pas-de-Calais,62,moyenneville
+62598,Muncq-Nieurlet,Pas-de-Calais,62,muncq nieurlet
+62599,Nabringhen,Pas-de-Calais,62,nabringhen
+62600,Nédon,Pas-de-Calais,62,nedon
+62601,Nédonchel,Pas-de-Calais,62,nedonchel
+62602,Nempont-Saint-Firmin,Pas-de-Calais,62,nempont saint firmin
+62603,Nesles,Pas-de-Calais,62,nesles
+62604,Neufchâtel-Hardelot,Pas-de-Calais,62,neufchatel hardelot
+62605,Neulette,Pas-de-Calais,62,neulette
+62606,Neuve-Chapelle,Pas-de-Calais,62,neuve chapelle
+62607,Neuville-au-Cornet,Pas-de-Calais,62,neuville au cornet
+62608,Neuville-Bourjonval,Pas-de-Calais,62,neuville bourjonval
+62609,Neuville-Saint-Vaast,Pas-de-Calais,62,neuville saint vaast
+62610,Neuville-sous-Montreuil,Pas-de-Calais,62,neuville sous montreuil
+62611,Neuville-Vitasse,Pas-de-Calais,62,neuville vitasse
+62612,Neuvireuil,Pas-de-Calais,62,neuvireuil
+62613,Nielles-lès-Bléquin,Pas-de-Calais,62,nielles les blequin
+62614,Nielles-lès-Ardres,Pas-de-Calais,62,nielles les ardres
+62615,Nielles-lès-Calais,Pas-de-Calais,62,nielles les calais
+62616,Nœux-lès-Auxi,Pas-de-Calais,62,nux les auxi
+62617,Nœux-les-Mines,Pas-de-Calais,62,nux les mines
+62618,Nordausques,Pas-de-Calais,62,nordausques
+62619,Noreuil,Pas-de-Calais,62,noreuil
+62620,Norrent-Fontes,Pas-de-Calais,62,norrent fontes
+62621,Nortkerque,Pas-de-Calais,62,nortkerque
+62622,Nort-Leulinghem,Pas-de-Calais,62,nort leulinghem
+62623,Nouvelle-Église,Pas-de-Calais,62,nouvelle eglise
+62624,Noyelles-Godault,Pas-de-Calais,62,noyelles godault
+62625,Noyelles-lès-Humières,Pas-de-Calais,62,noyelles les humieres
+62626,Noyelles-lès-Vermelles,Pas-de-Calais,62,noyelles les vermelles
+62627,Noyelles-sous-Bellonne,Pas-de-Calais,62,noyelles sous bellonne
+62628,Noyelles-sous-Lens,Pas-de-Calais,62,noyelles sous lens
+62629,Noyellette,Pas-de-Calais,62,noyellette
+62630,Noyelle-Vion,Pas-de-Calais,62,noyelle vion
+62631,Nuncq-Hautecôte,Pas-de-Calais,62,nuncq hautecote
+62632,Oblinghem,Pas-de-Calais,62,oblinghem
+62633,Œuf-en-Ternois,Pas-de-Calais,62,uf en ternois
+62634,Offekerque,Pas-de-Calais,62,offekerque
+62635,Offin,Pas-de-Calais,62,offin
+62636,Offrethun,Pas-de-Calais,62,offrethun
+62637,Oignies,Pas-de-Calais,62,oignies
+62638,Oisy-le-Verger,Pas-de-Calais,62,oisy le verger
+62639,Oppy,Pas-de-Calais,62,oppy
+62640,Orville,Pas-de-Calais,62,orville
+62641,Ostreville,Pas-de-Calais,62,ostreville
+62642,Ourton,Pas-de-Calais,62,ourton
+62643,Outreau,Pas-de-Calais,62,outreau
+62644,Ouve-Wirquin,Pas-de-Calais,62,ouve wirquin
+62645,Oye-Plage,Pas-de-Calais,62,oye plage
+62646,Palluel,Pas-de-Calais,62,palluel
+62647,Le Parcq,Pas-de-Calais,62,le parcq
+62648,Parenty,Pas-de-Calais,62,parenty
+62649,Pas-en-Artois,Pas-de-Calais,62,pas en artois
+62650,Pelves,Pas-de-Calais,62,pelves
+62651,Penin,Pas-de-Calais,62,penin
+62652,Pernes,Pas-de-Calais,62,pernes
+62653,Pernes-lès-Boulogne,Pas-de-Calais,62,pernes les boulogne
+62654,Peuplingues,Pas-de-Calais,62,peuplingues
+62655,Pierremont,Pas-de-Calais,62,pierremont
+62656,Pihem,Pas-de-Calais,62,pihem
+62657,Pihen-lès-Guînes,Pas-de-Calais,62,pihen les guines
+62658,Pittefaux,Pas-de-Calais,62,pittefaux
+62659,Planques,Pas-de-Calais,62,planques
+62660,Plouvain,Pas-de-Calais,62,plouvain
+62661,Bouin-Plumoison,Pas-de-Calais,62,bouin plumoison
+62662,Polincove,Pas-de-Calais,62,polincove
+62663,Pommera,Pas-de-Calais,62,pommera
+62664,Pommier,Pas-de-Calais,62,pommier
+62665,Le Ponchel,Pas-de-Calais,62,le ponchel
+62666,Pont-à-Vendin,Pas-de-Calais,62,pont a vendin
+62667,Le Portel,Pas-de-Calais,62,le portel
+62668,Prédefin,Pas-de-Calais,62,predefin
+62669,Pressy,Pas-de-Calais,62,pressy
+62670,Preures,Pas-de-Calais,62,preures
+62671,Pronville-en-Artois,Pas-de-Calais,62,pronville en artois
+62672,Puisieux,Pas-de-Calais,62,puisieux
+62673,Quéant,Pas-de-Calais,62,queant
+62674,Quelmes,Pas-de-Calais,62,quelmes
+62675,Quercamps,Pas-de-Calais,62,quercamps
+62676,Quernes,Pas-de-Calais,62,quernes
+62677,Le Quesnoy-en-Artois,Pas-de-Calais,62,le quesnoy en artois
+62678,Quesques,Pas-de-Calais,62,quesques
+62679,Questrecques,Pas-de-Calais,62,questrecques
+62680,Quiéry-la-Motte,Pas-de-Calais,62,quiery la motte
+62681,Quiestède,Pas-de-Calais,62,quiestede
+62682,Quilen,Pas-de-Calais,62,quilen
+62683,Quœux-Haut-Maînil,Pas-de-Calais,62,quux haut mainil
+62684,Racquinghem,Pas-de-Calais,62,racquinghem
+62685,Radinghem,Pas-de-Calais,62,radinghem
+62686,Ramecourt,Pas-de-Calais,62,ramecourt
+62688,Rang-du-Fliers,Pas-de-Calais,62,rang du fliers
+62689,Ransart,Pas-de-Calais,62,ransart
+62690,Raye-sur-Authie,Pas-de-Calais,62,raye sur authie
+62691,Saint-Augustin,Pas-de-Calais,62,saint augustin
+62692,Rebergues,Pas-de-Calais,62,rebergues
+62693,Rebreuve-Ranchicourt,Pas-de-Calais,62,rebreuve ranchicourt
+62694,Rebreuve-sur-Canche,Pas-de-Calais,62,rebreuve sur canche
+62695,Rebreuviette,Pas-de-Calais,62,rebreuviette
+62696,Reclinghem,Pas-de-Calais,62,reclinghem
+62697,Récourt,Pas-de-Calais,62,recourt
+62698,Recques-sur-Course,Pas-de-Calais,62,recques sur course
+62699,Recques-sur-Hem,Pas-de-Calais,62,recques sur hem
+62700,Regnauville,Pas-de-Calais,62,regnauville
+62701,Rely,Pas-de-Calais,62,rely
+62702,Remilly-Wirquin,Pas-de-Calais,62,remilly wirquin
+62703,Rémy,Pas-de-Calais,62,remy
+62704,Renty,Pas-de-Calais,62,renty
+62705,Rety,Pas-de-Calais,62,rety
+62706,Richebourg,Pas-de-Calais,62,richebourg
+62708,Riencourt-lès-Bapaume,Pas-de-Calais,62,riencourt les bapaume
+62709,Riencourt-lès-Cagnicourt,Pas-de-Calais,62,riencourt les cagnicourt
+62710,Rimboval,Pas-de-Calais,62,rimboval
+62711,Rinxent,Pas-de-Calais,62,rinxent
+62712,Rivière,Pas-de-Calais,62,riviere
+62713,Robecq,Pas-de-Calais,62,robecq
+62714,Roclincourt,Pas-de-Calais,62,roclincourt
+62715,Rocquigny,Pas-de-Calais,62,rocquigny
+62716,Rodelinghem,Pas-de-Calais,62,rodelinghem
+62717,Roëllecourt,Pas-de-Calais,62,roellecourt
+62718,Rœux,Pas-de-Calais,62,rux
+62719,Rollancourt,Pas-de-Calais,62,rollancourt
+62720,Rombly,Pas-de-Calais,62,rombly
+62721,Roquetoire,Pas-de-Calais,62,roquetoire
+62722,Rougefay,Pas-de-Calais,62,rougefay
+62723,Roussent,Pas-de-Calais,62,roussent
+62724,Rouvroy,Pas-de-Calais,62,rouvroy
+62725,Royon,Pas-de-Calais,62,royon
+62726,Ruisseauville,Pas-de-Calais,62,ruisseauville
+62727,Ruitz,Pas-de-Calais,62,ruitz
+62728,Rumaucourt,Pas-de-Calais,62,rumaucourt
+62729,Rumilly,Pas-de-Calais,62,rumilly
+62730,Ruminghem,Pas-de-Calais,62,ruminghem
+62731,Ruyaulcourt,Pas-de-Calais,62,ruyaulcourt
+62732,Sachin,Pas-de-Calais,62,sachin
+62733,Sailly-au-Bois,Pas-de-Calais,62,sailly au bois
+62734,Sailly-en-Ostrevent,Pas-de-Calais,62,sailly en ostrevent
+62735,Sailly-Labourse,Pas-de-Calais,62,sailly labourse
+62736,Sailly-sur-la-Lys,Pas-de-Calais,62,sailly sur la lys
+62737,Sains-en-Gohelle,Pas-de-Calais,62,sains en gohelle
+62738,Sains-lès-Fressin,Pas-de-Calais,62,sains les fressin
+62739,Sains-lès-Marquion,Pas-de-Calais,62,sains les marquion
+62740,Sains-lès-Pernes,Pas-de-Calais,62,sains les pernes
+62741,Saint-Amand,Pas-de-Calais,62,saint amand
+62742,Saint-Aubin,Pas-de-Calais,62,saint aubin
+62744,Sainte-Catherine,Pas-de-Calais,62,sainte catherine
+62745,Saint-Denœux,Pas-de-Calais,62,saint denux
+62746,Saint-Étienne-au-Mont,Pas-de-Calais,62,saint etienne au mont
+62747,Saint-Floris,Pas-de-Calais,62,saint floris
+62748,Saint-Folquin,Pas-de-Calais,62,saint folquin
+62749,Saint-Georges,Pas-de-Calais,62,saint georges
+62750,Saint-Hilaire-Cottes,Pas-de-Calais,62,saint hilaire cottes
+62751,Saint-Inglevert,Pas-de-Calais,62,saint inglevert
+62752,Saint-Josse,Pas-de-Calais,62,saint josse
+62753,Saint-Laurent-Blangy,Pas-de-Calais,62,saint laurent blangy
+62754,Saint-Léger,Pas-de-Calais,62,saint leger
+62755,Saint-Léonard,Pas-de-Calais,62,saint leonard
+62756,Sainte-Marie-Kerque,Pas-de-Calais,62,sainte marie kerque
+62757,Saint-Martin-lez-Tatinghem,Pas-de-Calais,62,saint martin lez tatinghem
+62758,Saint-Martin-Boulogne,Pas-de-Calais,62,saint martin boulogne
+62759,Saint-Martin-Choquel,Pas-de-Calais,62,saint martin choquel
+62760,Saint-Martin-d'Hardinghem,Pas-de-Calais,62,saint martin d hardinghem
+62761,Saint-Martin-sur-Cojeul,Pas-de-Calais,62,saint martin sur cojeul
+62762,Saint-Michel-sous-Bois,Pas-de-Calais,62,saint michel sous bois
+62763,Saint-Michel-sur-Ternoise,Pas-de-Calais,62,saint michel sur ternoise
+62764,Saint-Nicolas,Pas-de-Calais,62,saint nicolas
+62765,Saint-Omer,Pas-de-Calais,62,saint omer
+62766,Saint-Omer-Capelle,Pas-de-Calais,62,saint omer capelle
+62767,Saint-Pol-sur-Ternoise,Pas-de-Calais,62,saint pol sur ternoise
+62768,Saint-Rémy-au-Bois,Pas-de-Calais,62,saint remy au bois
+62769,Saint-Tricat,Pas-de-Calais,62,saint tricat
+62770,Saint-Venant,Pas-de-Calais,62,saint venant
+62771,Sallaumines,Pas-de-Calais,62,sallaumines
+62772,Salperwick,Pas-de-Calais,62,salperwick
+62773,Samer,Pas-de-Calais,62,samer
+62774,Sangatte,Pas-de-Calais,62,sangatte
+62775,Sanghen,Pas-de-Calais,62,sanghen
+62776,Sapignies,Pas-de-Calais,62,sapignies
+62777,Le Sars,Pas-de-Calais,62,le sars
+62778,Sars-le-Bois,Pas-de-Calais,62,sars le bois
+62779,Sarton,Pas-de-Calais,62,sarton
+62780,Sauchy-Cauchy,Pas-de-Calais,62,sauchy cauchy
+62781,Sauchy-Lestrée,Pas-de-Calais,62,sauchy lestree
+62782,Saudemont,Pas-de-Calais,62,saudemont
+62783,Saulchoy,Pas-de-Calais,62,saulchoy
+62784,Saulty,Pas-de-Calais,62,saulty
+62785,Savy-Berlette,Pas-de-Calais,62,savy berlette
+62786,Selles,Pas-de-Calais,62,selles
+62787,Sempy,Pas-de-Calais,62,sempy
+62788,Seninghem,Pas-de-Calais,62,seninghem
+62789,Senlecques,Pas-de-Calais,62,senlecques
+62790,Senlis,Pas-de-Calais,62,senlis
+62791,Séricourt,Pas-de-Calais,62,sericourt
+62792,Serques,Pas-de-Calais,62,serques
+62793,Servins,Pas-de-Calais,62,servins
+62794,Setques,Pas-de-Calais,62,setques
+62795,Sibiville,Pas-de-Calais,62,sibiville
+62796,Simencourt,Pas-de-Calais,62,simencourt
+62797,Siracourt,Pas-de-Calais,62,siracourt
+62798,Sombrin,Pas-de-Calais,62,sombrin
+62799,Sorrus,Pas-de-Calais,62,sorrus
+62800,Souastre,Pas-de-Calais,62,souastre
+62801,Souchez,Pas-de-Calais,62,souchez
+62802,Le Souich,Pas-de-Calais,62,le souich
+62803,Surques,Pas-de-Calais,62,surques
+62804,Sus-Saint-Léger,Pas-de-Calais,62,sus saint leger
+62805,Tangry,Pas-de-Calais,62,tangry
+62806,Tardinghen,Pas-de-Calais,62,tardinghen
+62808,Teneur,Pas-de-Calais,62,teneur
+62809,Ternas,Pas-de-Calais,62,ternas
+62810,Thélus,Pas-de-Calais,62,thelus
+62811,Thérouanne,Pas-de-Calais,62,therouanne
+62812,Thiembronne,Pas-de-Calais,62,thiembronne
+62813,La Thieuloye,Pas-de-Calais,62,la thieuloye
+62814,Thièvres,Pas-de-Calais,62,thievres
+62815,Tigny-Noyelle,Pas-de-Calais,62,tigny noyelle
+62816,Tilloy-lès-Hermaville,Pas-de-Calais,62,tilloy les hermaville
+62817,Tilloy-lès-Mofflaines,Pas-de-Calais,62,tilloy les mofflaines
+62818,Tilly-Capelle,Pas-de-Calais,62,tilly capelle
+62819,Tilques,Pas-de-Calais,62,tilques
+62820,Tincques,Pas-de-Calais,62,tincques
+62821,Tingry,Pas-de-Calais,62,tingry
+62822,Tollent,Pas-de-Calais,62,tollent
+62823,Torcy,Pas-de-Calais,62,torcy
+62824,Tortefontaine,Pas-de-Calais,62,tortefontaine
+62825,Tortequesne,Pas-de-Calais,62,tortequesne
+62826,Le Touquet-Paris-Plage,Pas-de-Calais,62,le touquet paris plage
+62827,Tournehem-sur-la-Hem,Pas-de-Calais,62,tournehem sur la hem
+62828,Tramecourt,Pas-de-Calais,62,tramecourt
+62829,Le Transloy,Pas-de-Calais,62,le transloy
+62830,Trescault,Pas-de-Calais,62,trescault
+62831,Troisvaux,Pas-de-Calais,62,troisvaux
+62832,Tubersent,Pas-de-Calais,62,tubersent
+62833,Vacquerie-le-Boucq,Pas-de-Calais,62,vacquerie le boucq
+62834,Vacqueriette-Erquières,Pas-de-Calais,62,vacqueriette erquieres
+62835,Valhuon,Pas-de-Calais,62,valhuon
+62836,Vaudricourt,Pas-de-Calais,62,vaudricourt
+62837,Vaudringhem,Pas-de-Calais,62,vaudringhem
+62838,Vaulx,Pas-de-Calais,62,vaulx
+62839,Vaulx-Vraucourt,Pas-de-Calais,62,vaulx vraucourt
+62840,Vélu,Pas-de-Calais,62,velu
+62841,Vendin-lès-Béthune,Pas-de-Calais,62,vendin les bethune
+62842,Vendin-le-Vieil,Pas-de-Calais,62,vendin le vieil
+62843,Verchin,Pas-de-Calais,62,verchin
+62844,Verchocq,Pas-de-Calais,62,verchocq
+62845,Verlincthun,Pas-de-Calais,62,verlincthun
+62846,Vermelles,Pas-de-Calais,62,vermelles
+62847,Verquigneul,Pas-de-Calais,62,verquigneul
+62848,Verquin,Pas-de-Calais,62,verquin
+62849,Verton,Pas-de-Calais,62,verton
+62850,Vieil-Hesdin,Pas-de-Calais,62,vieil hesdin
+62851,Vieille-Chapelle,Pas-de-Calais,62,vieille chapelle
+62852,Vieille-Église,Pas-de-Calais,62,vieille eglise
+62853,Vieil-Moutier,Pas-de-Calais,62,vieil moutier
+62854,Villers-au-Bois,Pas-de-Calais,62,villers au bois
+62855,Villers-au-Flos,Pas-de-Calais,62,villers au flos
+62856,Villers-Brûlin,Pas-de-Calais,62,villers brulin
+62857,Villers-Châtel,Pas-de-Calais,62,villers chatel
+62858,Villers-lès-Cagnicourt,Pas-de-Calais,62,villers les cagnicourt
+62859,Villers-l'Hôpital,Pas-de-Calais,62,villers l hopital
+62860,Villers-Sir-Simon,Pas-de-Calais,62,villers sir simon
+62861,Vimy,Pas-de-Calais,62,vimy
+62862,Vincly,Pas-de-Calais,62,vincly
+62863,Violaines,Pas-de-Calais,62,violaines
+62864,Vis-en-Artois,Pas-de-Calais,62,vis en artois
+62865,Vitry-en-Artois,Pas-de-Calais,62,vitry en artois
+62866,Waben,Pas-de-Calais,62,waben
+62867,Wacquinghen,Pas-de-Calais,62,wacquinghen
+62868,Wail,Pas-de-Calais,62,wail
+62869,Wailly,Pas-de-Calais,62,wailly
+62870,Wailly-Beaucamp,Pas-de-Calais,62,wailly beaucamp
+62871,Wambercourt,Pas-de-Calais,62,wambercourt
+62872,Wamin,Pas-de-Calais,62,wamin
+62873,Wancourt,Pas-de-Calais,62,wancourt
+62874,Wanquetin,Pas-de-Calais,62,wanquetin
+62875,Wardrecques,Pas-de-Calais,62,wardrecques
+62876,Warlencourt-Eaucourt,Pas-de-Calais,62,warlencourt eaucourt
+62877,Warlincourt-lès-Pas,Pas-de-Calais,62,warlincourt les pas
+62878,Warlus,Pas-de-Calais,62,warlus
+62879,Warluzel,Pas-de-Calais,62,warluzel
+62880,Le Wast,Pas-de-Calais,62,le wast
+62881,Beauvoir-Wavans,Pas-de-Calais,62,beauvoir wavans
+62882,Wavrans-sur-l'Aa,Pas-de-Calais,62,wavrans sur l aa
+62883,Wavrans-sur-Ternoise,Pas-de-Calais,62,wavrans sur ternoise
+62885,Westrehem,Pas-de-Calais,62,westrehem
+62886,Wicquinghem,Pas-de-Calais,62,wicquinghem
+62887,Widehem,Pas-de-Calais,62,widehem
+62888,Wierre-au-Bois,Pas-de-Calais,62,wierre au bois
+62889,Wierre-Effroy,Pas-de-Calais,62,wierre effroy
+62890,Willeman,Pas-de-Calais,62,willeman
+62891,Willencourt,Pas-de-Calais,62,willencourt
+62892,Willerval,Pas-de-Calais,62,willerval
+62893,Wimereux,Pas-de-Calais,62,wimereux
+62894,Wimille,Pas-de-Calais,62,wimille
+62895,Wingles,Pas-de-Calais,62,wingles
+62896,Wirwignes,Pas-de-Calais,62,wirwignes
+62897,Wismes,Pas-de-Calais,62,wismes
+62898,Wisques,Pas-de-Calais,62,wisques
+62899,Wissant,Pas-de-Calais,62,wissant
+62900,Witternesse,Pas-de-Calais,62,witternesse
+62901,Wittes,Pas-de-Calais,62,wittes
+62902,Wizernes,Pas-de-Calais,62,wizernes
+62903,Zoteux,Pas-de-Calais,62,zoteux
+62904,Zouafques,Pas-de-Calais,62,zouafques
+62905,Zudausques,Pas-de-Calais,62,zudausques
+62906,Zutkerque,Pas-de-Calais,62,zutkerque
+62907,Libercourt,Pas-de-Calais,62,libercourt
+62908,La Capelle-lès-Boulogne,Pas-de-Calais,62,la capelle les boulogne
+62909,Ytres,Pas-de-Calais,62,ytres
